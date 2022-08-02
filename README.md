@@ -6,5 +6,5 @@
 
 ## Import Postman
 
-1. Choose import in postman
+1. Choose `import` in postman
 2. Select file postman `postman/Challenge Express.postman_collection.json`
